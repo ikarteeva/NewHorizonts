@@ -1,5 +1,9 @@
 <resources>
-    <string name="app_name">GoldTry</string>
-    <string name="hello">Hello!</string>
+    <string name="app_name">NewHorizonts</string>
+    <string name="hello">Москва - столица России!</string>
     <string name="button">Pew</string>
+    <string name="yesbut">Да</string>
+    <string name="nobut">Нет</string>
+    <string name="correct">Все верно!</string>
+    <string name="uncorrect">Подумай лучше!</string>
 </resources>
